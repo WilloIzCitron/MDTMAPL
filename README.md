@@ -1,4 +1,4 @@
-# Mindustry Mod Assets Public License v1 (MDTMAPLv1)
+# Mindustry Mod Assets Public License (MDTMAPL)
 Version: v1.0.0 (19/7/2025)
 
 ## Usage
